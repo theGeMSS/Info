@@ -2,7 +2,7 @@
 
 This webpage provides information about the Gender Minorities in Science Social, an annual event held in conjunction with the Division of Nuclear Physics Conference, to provide a networking and mentoring opportunity for women and other gender minorites. 
 
-###Organizing committee for GeMSS 2022: 
+### Organizing committee for GeMSS 2022: 
 <p>Brennan Hackett (Chair)<br>Heather Garland (Past Chair)<br>Jesse Farr<br>Rebecca Toomey 
 
 ### Jekyll Themes
