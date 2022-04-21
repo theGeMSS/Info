@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Gender Minorities in Science Social
 
-You can use the [editor on GitHub](https://github.com/theGeMSS/Info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This webpage provides information about the Gender Minorities in Science Social, an annual event held in conjunction with the Division of Nuclear Physics Conference, to provide a networking and mentoring opportunity for women and other gender minorites. 
 
 ### Markdown
 
