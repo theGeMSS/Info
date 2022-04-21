@@ -9,7 +9,9 @@ The organizing committee for GeMSS 2022:
 Brennan Hackett (Chair) 
 
 Heather Garland (Past Chair) 
+
 Jesse Farr
+
 Rebecca Toomey 
 
 ### Jekyll Themes
