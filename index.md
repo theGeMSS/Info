@@ -5,11 +5,7 @@ This webpage provides information about the Gender Minorities in Science Social,
 ### Current Organizing Committee 
 
 The organizing committee for GeMSS 2022: 
-
-  Brennan Hackett (Chair) 
-  Heather Garland (Past Chair) 
-  Jesse Farr
-  Rebecca Toomey 
+<p>Brennan Hackett (Chair)<br>Heather Garland (Past Chair)<br>Jesse Farr<br>Rebecca Toomey 
 
 ### Jekyll Themes
 
