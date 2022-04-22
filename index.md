@@ -5,7 +5,7 @@ This webpage provides information about the Gender Minorities in Science Social,
 ## GeMSS 2022: 
 This will be a hybrid event held in conjunction with DNP in New Orleans. The event will be held October 27th, 1-3 pm. Location and speakers TBD. This event is being supported by the Dean of College of Science at LSU, CENTAUR and senior members of the GeMSS community. 
 
-### GeMSS 2022 Organizing Committee:
+### Organizing Committee:
 <p>Brennan Hackett (Chair)<br>Heather Garland (Past Chair)<br>Jesse Farr<br>Rebecca Toomey </p>
   
 ## Past Events 
