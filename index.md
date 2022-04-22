@@ -3,7 +3,7 @@
 This webpage provides information about the Gender Minorities in Science Social, an annual event held in conjunction with the Division of Nuclear Physics Conference, to provide a networking and mentoring opportunity for women and other gender minorites in nuclear physics. 
 
 ## Organizing committee for GeMSS 2022: 
-<p>Brennan Hackett (Chair)<br>Heather Garland (Past Chair)<br>Jesse Farr<br>Rebecca Toomey 
+<p>Brennan Hackett (Chair)<br>Heather Garland (Past Chair)<br>Jesse Farr<br>Rebecca Toomey </p>
 
 ### GeMSS 2022
 This will be a hybrid event held in conjunction with DNP in New Orleans. The event will be held October 27th, 1-3 pm. Location and speakers TBD. This event is being supported by the Dean of College of Science at LSU, CENTAUR and senior members of the GeMSS community. 
